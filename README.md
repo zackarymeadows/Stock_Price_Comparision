@@ -2,7 +2,7 @@
 Data Analysis of Stocks in comparison to DQ
 
 ### Purpose
-The Purpose of this project was to comepare the stockprices for DQ against stocks in a similar field. 
+The purpose of this project was to compare the stockprices for DQ against stocks in a similar field. This was achieved by refactoring an existing script with mulitple buttons connecting to various functions into a simple click that loops through the data, collects, and displays all relevant information. 
 
 ### Results
 By cycling through the raw data provided and calulating the yearly return for each stock, it's clear to see only two of the 12 Stocks net a positive retrun for both years. 
