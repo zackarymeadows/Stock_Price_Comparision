@@ -1,8 +1,8 @@
-# DQanalysis
-Data Analysis of Stocks in comparison to DQ
+# DQ Stock Analysis
+In this exercise, stock data from excel sheets is explored, collected and displayed using VBA.
 
 ### Purpose
-The purpose of this project was to compare the stockprices for DQ against stocks in a similar field. This was achieved by refactoring an existing script with mulitple buttons connecting to various functions into a simple click that loops through the data, collects, and displays all relevant information. 
+The purpose of this project was to compare the stockprices for DQ against other stocks in the energy sector. This was achieved by refactoring an existing script with mulitple buttons connecting to various functions into a simple function that loops through the data and displays all relevant information. 
 
 ### Results
 By cycling through the raw data provided and calulating the yearly return for each stock, it's clear to see only two of the 12 Stocks net a positive retrun for both years. 
